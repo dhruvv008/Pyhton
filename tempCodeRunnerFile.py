@@ -1,0 +1,1 @@
+print(c.name,c.no)
